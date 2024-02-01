@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_characters"
+        android:icon="@drawable/usuario_de_perfil"
+        android:title="Personajes" />
+
+    <item
+        android:id="@+id/navigation_campaign"
+        android:icon="@drawable/usuario_de_perfil"
+        android:title="Campaña" />
+
+    <item
+        android:id="@+id/navigation_shop"
+        android:icon="@drawable/usuario_de_perfil"
+        android:title="Tienda" />
+
+    <item
+        android:id="@+id/navigation_games"
+        android:icon="@drawable/usuario_de_perfil"
+        android:title="Partidas" />
+</menu>
